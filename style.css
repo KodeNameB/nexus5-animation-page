@@ -1,0 +1,77 @@
+body{
+	font-size: 16px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: Poppins;
+}
+p{
+	font-family: Roboto;
+	font-size: 16px;
+}
+
+#showcase{
+	margin-top:90px;
+}
+
+.showcase-right p{
+	font-size: 18px;
+}
+.navbar-default{
+	background:#fff;
+	border:0;
+	font-family:Poppins;
+}
+
+.navbar-brand{
+	font-size: 40px;
+	color: #000 !important;
+	font-weight: bold;
+}
+#showcase  h1{
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+
+#showcase img{
+	margin-left: -60px;
+}
+
+#testimonial{
+	background: #f1f1f1;
+	padding: 50px 0 30px 0;
+	text-align: center;
+	margin-top: 40px;
+}
+
+#testimonial p{
+	font-size: 32px;
+	font-family: 'Josefin Sans';
+	color:#000;
+}
+
+#testimonial p.customer{
+	font-size: 20px;
+	color: #666;
+}
+
+#info1 .info-right{
+	margin-top: 90px;
+}
+
+#info2{
+	margin: 20px 0 60px 0;
+}
+
+#contact{
+	background:url("https://www.androidcentral.com/sites/androidcentral.com/files/styles/larger/public/postimages/108579/n4_3.jpg?itok=BN_QO1hn");
+	background-position-y: 8%
+	color:#fff;
+	border-top: #333 6px solid;
+	border-bottom: #333 6px solid;
+	padding: 30px;
+}
+
+footer{
+	padding: 30px;
+}
